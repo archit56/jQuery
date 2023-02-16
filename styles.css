@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: grey;
+    color: aliceblue;
+}
+
+.main_heading {
+    font-size: 4rem;
+    font-weight: bold;
+    line-height: 2;
+}
+
+.cursive {
+    font-family: cursive;
+}
